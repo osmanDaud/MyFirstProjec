@@ -1,9 +1,10 @@
 #pragma once
+#include <string>
 
 class Rectangle
 {
 private:
-    float length;
+  string length;
     float width;
 
 public:
