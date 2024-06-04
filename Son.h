@@ -4,4 +4,5 @@
 class Son : public Mother {
     public :
     Son (int a);
+    
 };

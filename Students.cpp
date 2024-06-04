@@ -10,4 +10,5 @@ void Students::initialiser(){
 }
  int Students::getAge(int yearOfBirth, int currentYear){
  	return currentYear - yearOfBirth;
+	
  }

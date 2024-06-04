@@ -15,4 +15,5 @@ public:
 	void initialiser();
 
 	int getAge(int currentYear, int yearOfBirth);
+	
 };
